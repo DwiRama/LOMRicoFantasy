@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[1,1,0,3,5,-1,0]},{"code":122,"indent":0,"parameters":[2,2,0,3,5,-1,1]},{"code":355,"indent":0,"parameters":["if($gameMap.regionId($gameVariables.value(1), $gameVariables.value(2)) == 1){"]},{"code":655,"indent":0,"parameters":["$gameMap.changeBattleback(\"Dirt1\",\"Grassland\");"]},{"code":655,"indent":0,"parameters":["} else if($gameMap.regionId($gameVariables.value(1), $gameVariables.value(2)) == 2){"]},{"code":655,"indent":0,"parameters":["$gameMap.changeBattleback(\"Sand\",\"Sea\");"]},{"code":655,"indent":0,"parameters":["} else if($gameMap.regionId($gameVariables.value(1), $gameVariables.value(2)) == 3){"]},{"code":655,"indent":0,"parameters":["$gameMap.changeBattleback(\"Meadow\",\"Grassland\");"]},{"code":655,"indent":0,"parameters":["} else if($gameMap.regionId($gameVariables.value(1), $gameVariables.value(2)) == 4){"]},{"code":655,"indent":0,"parameters":["$gameMap.changeBattleback(\"Grassland\",\"Grassland\");"]},{"code":655,"indent":0,"parameters":["}"]},{"code":0,"indent":0,"parameters":[]}],"name":"MapRegionCoordinate","switchId":18,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

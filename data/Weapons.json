@@ -1,14 +1,5 @@
 [
 null,
-<<<<<<< 5f072f14d5245085e61adfa4d7bfa4c531b09913
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,50,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":2,"value":1}],"iconIndex":99,"name":"Axetreme","note":"","params":[0,0,80,0,20,0,0,0],"price":500,"wtypeId":4},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,50,0,30,0,0,0],"price":400,"wtypeId":6},
-{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Wood Bow","note":"","params":[0,0,50,0,0,0,0,0],"price":300,"wtypeId":7},
-{"id":5,"animationId":2,"description":"Plain dagger.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Dagger","note":"","params":[0,0,50,0,0,0,0,10],"price":260,"wtypeId":1},
-{"id":6,"animationId":4,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.2},{"code":31,"dataId":1,"value":1}],"iconIndex":101,"name":"Ice staff","note":"","params":[0,0,60,0,90,0,0,0],"price":1000,"wtypeId":6},
-{"id":7,"animationId":5,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1},{"code":31,"dataId":4,"value":1}],"iconIndex":97,"name":"Excalibur","note":"","params":[0,0,60,0,50,0,0,0],"price":1000,"wtypeId":2},
-=======
 {"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,60,0,20,50,0,0],"price":500,"wtypeId":2},
 {"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":2,"value":1}],"iconIndex":99,"name":"Axetreme","note":"","params":[0,0,80,0,20,0,0,0],"price":500,"wtypeId":4},
 {"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,50,0,70,0,0,0],"price":400,"wtypeId":6},
@@ -16,22 +7,12 @@ null,
 {"id":5,"animationId":2,"description":"Plain dagger.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Dagger","note":"","params":[0,0,50,0,0,0,0,10],"price":260,"wtypeId":1},
 {"id":6,"animationId":4,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.2},{"code":31,"dataId":1,"value":1}],"iconIndex":101,"name":"Ice staff","note":"","params":[0,0,60,0,90,10,0,0],"price":1000,"wtypeId":6},
 {"id":7,"animationId":10,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1},{"code":31,"dataId":4,"value":1},{"code":22,"dataId":2,"value":0.5}],"iconIndex":97,"name":"Excalibur","note":"","params":[0,0,40,0,50,0,0,0],"price":1000,"wtypeId":2},
->>>>>>> Second Commit Rico Fantasy
 {"id":8,"animationId":11,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0},{"code":31,"dataId":1,"value":1}],"iconIndex":107,"name":"Spear","note":"","params":[0,0,50,0,0,0,10,0],"price":400,"wtypeId":12},
 {"id":9,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Knuckle","note":"","params":[0,0,40,0,0,0,10,0],"price":250,"wtypeId":11},
 {"id":10,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,60,20,0,0,0,0],"price":500,"wtypeId":4},
 {"id":11,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":9,"value":1},{"code":11,"dataId":4,"value":1},{"code":22,"dataId":1,"value":0.5}],"iconIndex":143,"name":"Batgloves","note":"","params":[0,0,50,0,50,0,50,0],"price":0,"wtypeId":11},
 {"id":12,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Metal Bow","note":"","params":[0,0,80,0,0,0,0,0],"price":800,"wtypeId":7},
 {"id":13,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Tomahawk","note":"","params":[0,0,80,0,0,0,0,0],"price":600,"wtypeId":4},
-<<<<<<< 5f072f14d5245085e61adfa4d7bfa4c531b09913
-{"id":14,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":3,"value":0.8}],"iconIndex":97,"name":"Ice Sword","note":"","params":[0,0,70,0,10,0,0,0],"price":500,"wtypeId":2},
-{"id":15,"animationId":3,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":2,"value":0.8}],"iconIndex":101,"name":"Fire Staff","note":"","params":[0,0,40,0,70,0,0,0],"price":1100,"wtypeId":5},
-{"id":16,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Metal Gloves","note":"","params":[0,0,80,0,0,0,5,0],"price":500,"wtypeId":11},
-{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
-=======
 {"id":14,"animationId":9,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":3,"value":0.8}],"iconIndex":97,"name":"Ice Sword","note":"","params":[0,0,70,0,10,0,0,0],"price":500,"wtypeId":2},
 {"id":15,"animationId":3,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":2,"value":0.8}],"iconIndex":101,"name":"Fire Staff","note":"","params":[0,0,40,0,70,0,0,0],"price":1100,"wtypeId":6},
 {"id":16,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Metal Gloves","note":"","params":[0,0,80,0,0,0,5,0],"price":500,"wtypeId":11},
@@ -49,5 +30,4 @@ null,
 {"id":28,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":29,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":30,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
->>>>>>> Second Commit Rico Fantasy
 ]
